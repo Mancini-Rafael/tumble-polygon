@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7faa112bfbe48fa47956f832a0a975f7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - LevelCompleteScreen: {instanceID: 0}
+  - LongBlock: {fileID: 941165770038615458, guid: 3ca112ef2335e714c8fa655daa4cfafd,
+      type: 3}
+  - SmallBlock: {fileID: 941165770038615458, guid: 241c533fd0c913c45b119bb752c0d1a4,
+      type: 3}
+  - PowerUp: {fileID: 941165770038615458, guid: ddd3776a1e334934aa71e4148e5d6d04,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
